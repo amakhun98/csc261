@@ -1,0 +1,1 @@
+We added dummy values from the CSV files. We also added some data from the terminal. In the final version, most of the data will be user-generated. 
